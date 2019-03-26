@@ -1,4 +1,6 @@
 # Eventex
+[![Build Status](https://travis-ci.org/fnscoder/wttd.svg?branch=master)](https://travis-ci.org/fnscoder/wttd)
+[![Maintainability](https://api.codeclimate.com/v1/badges/741df6d5451d2f367615/maintainability)](https://codeclimate.com/github/fnscoder/wttd/maintainability)
 
 Sistema de eventos encomendado pela Morena.
 
