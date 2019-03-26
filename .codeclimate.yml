@@ -1,7 +1,6 @@
 engines:
-  duplication:
+  pylint:
     enabled: true
-    config:
-      languages:
-        python:
-          python_version: 3
+    channel: "beta"
+    plugins:
+      - django
