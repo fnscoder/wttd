@@ -1,0 +1,13 @@
+engines:
+  pep8:
+    enabled: true
+
+ratings:
+   paths:
+   - "**.py"
+
+exclude_paths:
+- "eventex/core/migrations/"
+- "eventex/core/static/css/"
+- "eventex/core/static/fonts/"
+- "eventex/core/static/js/"
