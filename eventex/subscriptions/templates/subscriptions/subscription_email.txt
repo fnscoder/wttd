@@ -5,10 +5,10 @@ Obrigada por se inscrever no Eventex.
 Você nos forneceu as seguintes informações:
 
 
-Nome: {{ name }}
-CPF: {{ cpf }}
-Email: {{ email }}
-Telefone: {{ phone }}
+Nome: {{ subscription.name }}
+CPF: {{ subscription.cpf }}
+Email: {{ subscription.email }}
+Telefone: {{ subscription.phone }}
 
 Atenciosamente,
 
